@@ -55,12 +55,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<img src="https://github.com/Madanmishra45/Madanmishra45/blob/output/github-contribution-grid-snake.svg" />
-
----
-
 ## 🚀 About Me
 
 * 🎓 IT Student
