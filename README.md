@@ -130,8 +130,8 @@ Advanced DSA 🚀
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madanmishra45&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madanmishra45&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Madanmishra45&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madanmishra45&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -139,7 +139,7 @@ Advanced DSA 🚀
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Madanmishra45&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Madanmishra45&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
